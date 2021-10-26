@@ -1,6 +1,8 @@
 ## MSI-B450m-Mortar-EFI
 
-Tested on macOS 11.6, theoretically support macOS Monterey.
+~~Tested on macOS 11.6, theoretically support macOS Monterey.~~
+
+Support macOS Mojave, macOS Big Sur, macOS Monterey.
 
 ### My system
 
