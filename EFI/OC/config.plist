@@ -1066,8 +1066,6 @@
                     <integer>0</integer>
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
-                    <key>SystemAudioVolumeDB</key>
-                    <data>4g==</data>
                     <key>boot-args</key>
                     <string>-v debug=0x100 keepsyms=1 npci=0x2000 alcid=1</string>
                     <key>csr-active-config</key>
