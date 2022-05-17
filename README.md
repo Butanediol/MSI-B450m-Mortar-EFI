@@ -4,7 +4,9 @@
 
 ~~Support macOS Catalina, macOS Big Sur, macOS Monterey.~~
 
-Versions from OC 0.7.5 (included) to the latest is untested. The latested tested version is [OC 0.7.4](https://github.com/Butanediol/MSI-B450m-Mortar-EFI/releases/tag/Tested).
+The latested tested version is [OC 0.8.0](https://github.com/Butanediol/MSI-B450m-Mortar-EFI/releases/tag/Tested).
+
+I've got an Apple Silicon MacBook, so this configuration might not get updates frequently.
 
 ### My system
 
